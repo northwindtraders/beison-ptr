@@ -1,0 +1,6 @@
+[submodule "third_party/beicode"]
+	path = third_party/beicode
+	url = https://github.com/northwindtraders/beicode
+[submodule "third_party/beison"]
+	path = third_party/beison
+	url = https://github.com/northwindtraders/beison
