@@ -2,3 +2,8 @@
 /build*
 
 *.swp
+
+/.vs
+/beison-ptr.vcxproj.user
+/vcpkg_installed
+/x64
